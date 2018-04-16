@@ -7,3 +7,7 @@
 - Deployment - разполагане (на програмент код върху обслужващия компютър)
 - Continuous integration - Непрекъснато съчетаване
 - Live stream - жив поток
+
+## Source control - Контрол на източника
+- Merge in branch "master" - Сливам към клона "господар"
+- Create pull request - Създавам искане за издърпване
