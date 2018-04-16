@@ -4,10 +4,17 @@
 - Front-end - Челен край
 - Backend - Заден край
 - Server - Обслужващ компютър
+- Live stream - жив поток
+- User interfrace - Потребителска точка на обмен 
+
+## Testing - Изпробване
+- UI Testing - Изпробване на потребителската точка на обмен
+
+## DevOps - Експлоатационни операции при разработване
 - Deployment - разполагане (на програмент код върху обслужващия компютър)
 - Continuous integration - Непрекъснато съчетаване
-- Live stream - жив поток
 
-## Source control - Контрол на източника
+## Working with source control - Работа с контрол на източника
+- Commit changes - Предавам промените на съхранение
 - Merge in branch "master" - Сливам към клона "господар"
 - Create pull request - Създавам искане за издърпване
