@@ -19,3 +19,6 @@
 - Commit changes - Предавам промените на съхранение
 - Merge in branch "master" - Сливам към клона "господар"
 - Create pull request - Създавам искане за издърпване
+
+## User experience - Потребителско изживявне
+- Wireframe - Схематично оформление
