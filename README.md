@@ -25,6 +25,7 @@
 ## DevOps - Експлоатационни операции при разработване
 - Deployment - разполагане (на програмен код върху обслужващия компютър)
 - Continuous integration - Непрекъснато съчетаване
+- Container Orchestrator - Диригент на кофа
 
 ## Working with source control - Работа с контрол на източника
 - Commit changes - Предавам промените на съхранение
