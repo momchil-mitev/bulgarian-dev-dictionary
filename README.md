@@ -27,6 +27,8 @@
 - Deployment - разполагане (на програмен код върху обслужващия компютър)
 - Continuous integration - Непрекъснато съчетаване
 - Container Orchestrator - Диригент на кофа
+- Reverse Proxy - Обратен Пълномощник
+- Health Check Endpoint - Крайна точка за проверка на здравното състояние
 
 ## Working with source control - Работа с контрол на източника
 - Commit changes - Предавам промените на съхранение
