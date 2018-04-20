@@ -56,3 +56,5 @@
 - Customer outreach - достигане до клиента
 - Cold call - студено обаждане
 - Cold email - студено електронно писмо
+- Buyer journey - пътешествие на купувача
+- Inbound sales strategy - стратегия за входящи продажби
