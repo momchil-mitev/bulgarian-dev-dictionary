@@ -23,6 +23,7 @@
 - Desgin-driven development (DDD) - (РПО) разработване подтикнато от оформление
 - Burndown chart - изпепеляваща диаграма 
 - Brainstorming - Мозъчно щурмуване
+- KPI (Key Perofmance Indicators) - Ключови Показатели за Производителността
 
 ## Разработване на програмен код
 - Request - поискване
