@@ -72,5 +72,5 @@
 - Buyer journey - пътешествие на купувача
 - Inbound sales strategy - стратегия за входящи продажби
 
-## 3rd party system - Системи от третата партия
+## 3rd party system - Системи от трети страни
 - SalesForce - продажна сила
