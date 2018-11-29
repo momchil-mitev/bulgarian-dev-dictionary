@@ -74,3 +74,6 @@
 
 ## 3rd party system - Системи от трети страни
 - SalesForce - продажна сила
+
+## Product Management - Управление на продукта
+- Use case - Приложение
