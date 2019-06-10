@@ -77,3 +77,4 @@
 
 ## Product Management - Управление на продукта
 - Use case - Приложение
+- Edge case - Первазен случай
