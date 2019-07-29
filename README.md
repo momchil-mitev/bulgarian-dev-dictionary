@@ -56,6 +56,7 @@
 ## User experience - Потребителско изживявне
 - User interfrace - Потребителска точка на обмен 
 - Wireframe - Схематично оформление
+- Template -  Калъп
 - Breadcrumb - Трохи за ориентиране (в потребителската точка на обмен)
 - Storyboard - сюжетно табло
 - Interaction Design - оформление на взаимодействието
