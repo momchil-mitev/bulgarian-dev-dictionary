@@ -66,7 +66,6 @@
 - Drop-down navigation - Спускащо сe насочване
 - Sliding navigation - Плъзгащ разпределител
 
-
 ## Customer success - Клиентски успех
 - CRM - Система за управление на взаимоотношения с клиенти
 - Customer outreach - Достигане до клиента
@@ -81,3 +80,13 @@
 ## Product Management - Управление на продукта
 - Use case - Вариант за употреба (на продукт, приложение, процес)
 - Edge case - Граничен случай
+
+## Security - Сигурност
+- Authorization - Упълномощаване
+- Authentication - Заверка
+- Multi-factor authentication - Многофакторна заверка
+- Two-step verification - Двутактова проверка
+- Impersonation - Въплъщение
+- Token - Жетон
+- Refresh token - Освежителен жетон
+- Revoke token - Жетонен ренонс
