@@ -88,5 +88,6 @@
 - Two-step verification - Двутактова проверка
 - Impersonation - Въплъщение
 - Token - Жетон
+- Access Token - Жетон за достъп
 - Refresh token - Освежителен жетон
 - Revoke token - Жетонен ренонс
